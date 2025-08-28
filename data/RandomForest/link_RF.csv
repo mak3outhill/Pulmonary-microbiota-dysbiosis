@@ -1,0 +1,15 @@
+"Interaction","Enriched.Group","Species","Species_Pvalue","Species_LogFC","Metabolite","MetaB_Pvalue","MetaB_LogFC","HostGene","Gene_LogFC","Rsquare","Pvalue"
+"Bacillus cereus_Xanthosine_nt5e","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5e",-0.063612597,0.580480732296334,0.010101
+"Bacillus cereus_Xanthosine_nt5m","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5m",0.176234059,0.571175210845235,0.010101
+"Bacillus cereus_Xanthosine_nt5el","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5el",-0.860269814,0.538485846033733,0.010101
+"Bacillus cereus_Xanthosine_nt5c2","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5c2",0.994547284,0.52192225875917,0.010101
+"Bacillus cereus_Xanthosine_Nt5dc2","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5dc2",-0.155718179,0.509978987284451,0.010101
+"Bacillus cereus_Xanthosine_nt5c1a","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Nt5c1a",-0.686185885,0.501111257228673,0.010101
+"Bacillus cereus_Xanthosine_pnp2","Severe","Bacillus cereus",0.001541051,5.578057258,"Xanthosine",0.04515,0.47265583,"Pnp2",0.101519992,0.46697134866066,0.010101
+"Fibrella_aestuarina_Xanthosine_nt5el","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5el",-0.860269814,-0.0339346593168415,0.222222
+"Fibrella_aestuarina_Xanthosine_nt5c2","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5c2",0.994547284,-0.0584331060527135,0.20202
+"Fibrella_aestuarina_Xanthosine_nt5m","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5m",0.176234059,-0.071505512605571,0.252525
+"Fibrella_aestuarina_Xanthosine_nt5e","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5e",-0.063612597,-0.135727411023274,0.272727
+"Fibrella_aestuarina_Xanthosine_nt5c1a","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5c1a",-0.686185885,-0.193298099428493,0.333333
+"Fibrella_aestuarina_Xanthosine_pnp2","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Pnp2",0.101519992,-0.238233779353299,0.515152
+"Fibrella_aestuarina_Xanthosine_Nt5dc2","Severe","Fibrella_aestuarina",0.034778712,3.086296687,"Xanthosine",0.04515,0.47265583,"Nt5dc2",-0.155718179,-0.243290629510318,0.454545
